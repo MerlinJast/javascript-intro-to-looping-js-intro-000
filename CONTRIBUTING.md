@@ -1,8 +1,8 @@
-# Contributing to Learn.co Curriculum
+* Contributing to Learn.co Curriculum
 
 We're really exited that you're about to contribute to the [open curriculum](https://learn.co/content-license) on [Learn.co](https://learn.co). If this is your first time contributing, please continue reading to learn how to make the most meaningful and useful impact possible.
 
-## Raising an Issue to Encourage a Contribution
+!# Raising an Issue to Encourage a Contribution
 
 If you notice a problem with the curriculum that you believe needs improvement
 but you're unable to make the change yourself, you should raise a Github issue
@@ -15,8 +15,8 @@ issue lists and your issue will be prioritized and addressed as appropriate.
 If you see an opportunity for improvement and can make the change yourself go
 ahead and use a typical git workflow to make it happen:
 
-* Fork this curriculum repository
-* Make the change on your fork, with descriptive commits in the standard format
+  Fork this curriculum repository
+! Make the change on your fork, with descriptive commits in the standard format
 * Open a Pull Request against this repo
 
 A curriculum owner will review your change and approve or comment on it in due
@@ -34,4 +34,4 @@ We need help from the community of Learners to maintain and improve the
 educational content. Everything from fixing typos, to correcting
 out-dated information, to improving exposition, to adding better examples,
 to fixing tests—all contributions to making the curriculum more effective are
-welcome.
+welcome. 
